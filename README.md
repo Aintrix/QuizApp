@@ -1,4 +1,16 @@
-# QuizApp
-This is an cross platform Application built by me. It is an quiz app which has multiple questions with four option for each, related to flutter. After completion of the quiz we can see the result of the quiz on the result screen.
-<br>
-Author - Aniruddha Dubey
+# quiz_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
